@@ -19,7 +19,7 @@ Visualize insights with clear, interactive charts
 
 🚀 Getting Started
 Clone the repository
-git clone https://github.com/your-username/netflix-eda.git
+https://github.com/AmanSharma016/Netflix-EDA.git
 Open Netflix_EDA.ipynb in Jupyter Notebook and explore the analysis.
 
 💡 Future Work
